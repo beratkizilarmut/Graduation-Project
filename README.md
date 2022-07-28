@@ -23,3 +23,5 @@ glasses apparatus with a lower cost and where the users can change the onboard
 software according to their needs and their desired functionality
 
 Development board used in the Bluetooth Based External Smart Glass Apparatus is ESP32-WROOM-32D. Development environment is Platform.IO and operating system is FreeRTOS.
+
+Graduation project report provided is written in Turkish.

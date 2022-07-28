@@ -1,8 +1,13 @@
 # Graduation-Project
+
 2021/2022
+
 Graduation Project Personal Works of
+
 Berat Kizilarmut, Electronics Engineering Student at Gebze Technical University
+
 Ömer Emre Polat, Electronics Engineering Student at Gebze Technical University
+
 
 In daily life, users are integrating wearable technology products into their lives
 more and more day by day. This technological revolution, which started with the daily
